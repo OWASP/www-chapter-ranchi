@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Ranchi
 tags: example-tag
 region: Asia
-meetup-group:
+meetup-group: OWASP-Ranchi-Chapter
 
 ---
 
