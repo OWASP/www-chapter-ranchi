@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Harsh Akshit](mailto:harsh.akshit@owasp.org)
+* [Mayank Jha](mailto:mayank.jha@owasp.org)
