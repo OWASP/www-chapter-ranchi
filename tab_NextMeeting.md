@@ -5,4 +5,4 @@ order: 1
 tags: OWASP RANCHI
 ---
 
-# **NEXT MEETING DETAILS**
+# **Next Meeting Details**
