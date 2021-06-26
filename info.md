@@ -1,3 +1,6 @@
+
+![OWASP Mumbai Chapter](LogoRanchi.png)
+
 ### Ranchi Information
 * Provide Group Information
 
