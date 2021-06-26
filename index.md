@@ -8,7 +8,6 @@ meetup-group: OWASP-Ranchi-Chapter
 
 ---
 
-# OWASP Ranchi
 ![OWASP Mumbai Chapter](LogoRanchi.png)
 Welcome to the OWASP Ranchi Chapter home page!!
 
