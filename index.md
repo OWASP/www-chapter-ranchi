@@ -18,7 +18,10 @@ We aim at providing exposure to our regional cyber experts by organizing informa
 
 ## CONNECT WITH US
 
- Meetup: 
+ [Meetup:]( https://www.meetup.com/OWASP-Ranchi-Chapter/)
+ 
+ {% include chapter_events.html group=page.meetup-group %}
+ 
  Twitter:
  Instagram:
  
