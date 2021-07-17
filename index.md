@@ -22,6 +22,6 @@ See[Meetup:]( https://www.meetup.com/OWASP-Ranchi-Chapter/)for upcoming events:
  
  {% include chapter_events.html group=page.meetup-group %}
  
- Twitter:
- Instagram:
+ [Twitter](https://twitter.com/OWASP_ranchi)
+ [Instagram](https://www.instagram.com/owasp_ranchi/)
  
