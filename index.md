@@ -6,6 +6,7 @@ tags: example-tag
 region: Asia
 country: India
 meetup-group: meetup-owasp-ranchi-chapter
+postal-code : 834001
 
 ---
 
