@@ -11,7 +11,7 @@ postal-code : 834001
 ---
 ## Welcome to OWASP Ranchi
 
-<img width="1344" height="768" alt="generated-image" src="https://github.com/user-attachments/assets/a7547b0f-5a2d-4ee2-8153-467dfad53ee3" />
+<img width="1344" height="768" alt=owasp-ranchi-logo" src="https://github.com/user-attachments/assets/a7547b0f-5a2d-4ee2-8153-467dfad53ee3" />
 
 OWASP Ranchi is the Ranchi chapter of OWASP, the Open Web Application Security Project—a global, open community devoted to making application software safer for everyone.
 
