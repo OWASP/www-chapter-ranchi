@@ -7,7 +7,5 @@
 
 ### Social Links
 * [Meetup](https://www.meetup.com/meetup-owasp-ranchi-chapter/)
-* [OWASP Ranchi Chapter | LinkedIn](https://www.linkedin.com/groups/15765034/)
+* [LinkedIn](https://www.linkedin.com/groups/15765034/)
 * [Youtube](https://www.youtube.com/@owaspranchi) 
-
-
