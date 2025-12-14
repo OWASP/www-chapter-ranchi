@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Ranchi
-tags: example-tag
+tags: Ranchi
 region: Asia
 country: India
 meetup-group: meetup-owasp-ranchi-chapter
