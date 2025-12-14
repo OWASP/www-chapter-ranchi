@@ -1,10 +1,10 @@
 ---
-title: events
+title: Events
 displaytext: Events
 layout: null
 tab: true
 order: 2
-tags: OWASP Ranchi
+tags: Ranchi
 ---
 
 # Past Events
