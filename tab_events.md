@@ -7,9 +7,9 @@ order: 2
 tags: OWASP Ranchi
 ---
 
-## Past Events
+# Past Events
 
-# Saturday, Nov 22 · 9:45 AM to 1:30 PM IST
+## Saturday, Nov 22 · 9:45 AM to 1:30 PM IST
 🧭 Agenda
 09:45 – 10:00 → Registration & Networking
 
